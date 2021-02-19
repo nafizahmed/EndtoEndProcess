@@ -1,6 +1,7 @@
 package e2e;
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 

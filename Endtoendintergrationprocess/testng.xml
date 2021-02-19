@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="e2e.TC_001"/>
+      <class name="e2e.TC_002"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
